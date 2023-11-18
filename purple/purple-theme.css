@@ -2,5 +2,5 @@
   --accent: rgb(255,255,255);
   --accent-hover: rgb(255, 255, 255);
   --accent-selected: rgb(255, 255, 255);
-  --accent-focused: rgb(148, 0, 211);
+  --accent-focused: rgb(148, 0, 211, 0.2);
 }
